@@ -101,7 +101,7 @@ const FormComponent = () => {
 
         <button
           type="submit"
-          className="w-full mt-5 bg-blue-600 font-semibold text-white p-2 rounded-md hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          className="w-full mt-5 bg-blue-600 font-semibold text-white p-2 rounded-md hover:bg-blue-500"
         >
           Submit
         </button>
